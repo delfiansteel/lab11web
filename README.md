@@ -49,19 +49,4 @@
 
 ![Upload Gambar](img/upload_gambar.png)
 
-- Hasilnya akan seperti ini ketika gambar telah di upload.
-
-![Hasil](img/result.png)
-
-## Pertanyaan dan Tugas
-<p>Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.</p>
-
-## Laporan Praktikum
-1. Melanjutkan praktikum sebelumnya pada repository dengan nama Lab10Web.
-2. Kerjakan semua latihan yang diberikan sesuai urutannya.
-3. Screenshot setiap perubahannya.
-4. Update file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
-5. Commit hasilnya pada repository masing-masing.
-6. Kirim URL repository pada e-learning ecampus.
-
 ## Terima Kasih!
